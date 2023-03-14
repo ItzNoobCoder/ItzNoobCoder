@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  -->   <p align="middle"><a href="https://github.com/ItzNoobCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=IshaMusic)](https://t.me/IshaMusicBbot) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍʙᴏᴛʟɪsᴛs)](https://t.me/IshaMusicBbot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <br>**
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Abhidarkside01@gmail.com**
  
-<br>
-- ⚡ ғᴜɴ  ғᴀᴄᴛ   Nobody Cares 
+- ⚡ ғᴜɴ  ғᴀᴄᴛ   **Nobody Cares **
 
  
  <h3 align="left">ʟᴀɴɢᴜᴀɢᴇs   ᴀɴᴅ ᴛᴏᴏʟs :</h3>

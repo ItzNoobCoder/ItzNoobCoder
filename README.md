@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>**
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Abhidarkside01@gmail.com**
  
-- ⚡ ғᴜɴ  ғᴀᴄᴛ   **Nobody Cares **
+- ⚡ ғᴜɴ  ғᴀᴄᴛ   **Nobody Cares**
 
  
  <h3 align="left">ʟᴀɴɢᴜᴀɢᴇs   ᴀɴᴅ ᴛᴏᴏʟs :</h3>

@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 <h1> <img src="https://github.com/ItzNoobCoder/ItzNoobCoder/blob/main/resources/codes.webp" width="70px"> Hᴇʏ Bᴀʙʏ ɪ'ᴍ ɴᴏᴏʙ Acrux </h1><p align="center">
 
 <h3 align="center">ɴᴏᴏʙ ғʀᴏᴍ  ʙɪʀᴛʜ ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ғʀᴏᴍ ᴘɪʀᴏ Peoples</h3>
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
+
  -->   <p align="middle"><a href="https://github.com/ItzNoobCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MEIZNOOBCODER/count.svg"><br>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItzNoobCoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="ItzNoobCoder" /> </p>
 

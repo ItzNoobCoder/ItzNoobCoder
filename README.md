@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">ɴᴏᴏʙ ғʀᴏᴍ  ʙɪʀᴛʜ ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ғʀᴏᴍ ᴘɪʀᴏ Peoples</h3>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/ItzNoobCoder/count.svg" />
+ -->   <p align="middle"><a href="https://github.com/ItzNoobCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MEIZNOOBCODER/count.svg"><br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItzNoobCoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="ItzNoobCoder" /> </p>

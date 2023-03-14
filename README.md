@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
    
 
-<p align="center"><a href="https://github.com/Itsunknown-12"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-mst-boy&theme=radical&layout=compact"></a></p>   
+<p align="center"><a href="https://github.com/Itsunknown-12"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNoobCoder&theme=radical&layout=compact"></a></p>   
    
    
  

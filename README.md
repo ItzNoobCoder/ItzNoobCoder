@@ -36,17 +36,7 @@ Here are some ideas to get you started:
 
  [<img src="https://github-readme-stats.vercel.app/api?username=ItzNoobCoder&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/ItzNoobCoder)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzNoobCoder&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ItzNoobCoder)
 
-<p align="center">
-  <a href="https://python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-<a href="https://en.wikipedia.org/wiki/HTML?wprov=sfla1">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS?wprov=sfla1">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</a>
-   </p> <br>
+
    
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNoobCoder&theme=blue-green"> </p>
    

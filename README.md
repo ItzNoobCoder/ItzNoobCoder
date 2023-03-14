@@ -23,18 +23,15 @@ Here are some ideas to get you started:
  -->   <p align="middle"><a href="https://github.com/ItzNoobCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ItzNoobCoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="ItzNoobCoder" /> </p>
-
-
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ]
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ]
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
-<br>**
+<br>
 - 📫 ʜᴏᴡ  ᴛᴏ  ʀᴇᴀᴄʜ  ᴍᴇ  **Abhidarkside01@gmail.com**
 
-- ⚡ ғᴜɴ  ғᴀᴄᴛ  ** Nobody Cares **
+- ⚡ ғᴜɴ  ғᴀᴄᴛ   Nobody Cares 
 
  
  <h3 align="left">ʟᴀɴɢᴜᴀɢᴇs   ᴀɴᴅ ᴛᴏᴏʟs :</h3>
@@ -61,5 +58,5 @@ Here are some ideas to get you started:
    
  [![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/IshaBots) 
 
-[![Reach me](https://img.shields.io/badge/Reach me-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/wtf_acrux)
+[![Reach me](https://img.shields.io/badge/Support-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/wtf_acrux)
 

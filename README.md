@@ -43,19 +43,13 @@ Here are some ideas to get you started:
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=FF7F00&multiline=true&width=1500&height=114&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
-<p align="middle"><a href="https://github.com/ItzNoobCoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MEIZNOOBCODER/count.svg"><br>
+![Ravana Github Stats](https://github-readme-stats.vercel.app/api?username=ItzNoobCoder&&show_icons=true&theme=radical)
 
-  
-  <h1> <img src = "https://github.com/ItzNoobCoder/ItzNoobCoder/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
-
- [<img src="https://github-readme-stats.vercel.app/api?username=ItzNoobCoder&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/ItzNoobCoder)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzNoobCoder&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/ItzNoobCoder)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=FF0000&multiline=true&width=1500&height=114&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 
-   
-
-<p align="center"><a href="https://github.com/ITZNOOBCODER"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZNOOBCODER&theme=radical&layout=compact"></a></p>   
    
    
  [![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/IshaBots) 
